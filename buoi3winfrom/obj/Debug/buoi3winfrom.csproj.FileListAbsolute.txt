@@ -1,0 +1,10 @@
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\bin\Debug\buoi3winfrom.exe.config
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\bin\Debug\buoi3winfrom.exe
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\bin\Debug\buoi3winfrom.pdb
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.Form1.resources
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.Properties.Resources.resources
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.exe
+C:\Users\DELL\Downloads\buoi3winfrom\buoi3winfrom\obj\Debug\buoi3winfrom.pdb
